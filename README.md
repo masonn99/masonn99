@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @masonn99
-- 👀 I’m interested in machine learning, data science and finance.
-- 🌱 I’m currently learning deep learning, data science and financial modeling.
-- 💞️ I’m looking to collaborate on data science projects in any fields.
+- Hi, I am Mason, a rising senior at Northwestern University pursuing a double major in Economics and Computer Science.
+- I am interested in using technology to make education equally accessible to everyone. 
+- I’m currently learning advanced linear algebra and probability, new software developing tools through projects, and interactive visualizations.
+- I’m looking to collaborate on any interesting and pontentially impactful projects.
+- I'm currently reading 'Germs, Guns, and Steals' and 'When Genius Failed'.
 - 📫 How to reach me ... masonnaung2023 at u dot northwestern dot edu
 
 <!---
